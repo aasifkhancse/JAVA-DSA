@@ -5,11 +5,16 @@ public class Power {
         if(i == 0){
             return 1;
         }
-        return n * power(n,i-1);
+        if(i%2==0){
+           return power(n,i/2) * power(n,i/2);
+        }
+        else{
+            return n * power(n,i/2) * power(n,i/2);
+        }
     }
     public static void main(String[] args) {
-        int n = 1;
-        int i = 10;
+        int n = 9;
+        int i = 3;
         System.out.println("Power "+n+" ^ "+i+" : "+power(n,i));
     }
 }
