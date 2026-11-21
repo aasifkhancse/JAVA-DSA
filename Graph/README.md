@@ -1,53 +1,100 @@
 Graph in Java
 
-Overview
+This folder contains Java programs related to Graph Data Structures. It covers fundamental graph concepts, representations, traversal algorithms, shortest path algorithms, and advanced graph problem-solving techniques.
 
-This project contains the implementation of Graph data structures using Java.
+📚 Topics Covered
 
-A Graph is a non-linear data structure consisting of:
+- Introduction to Graphs
+- Graph Terminology
+- Types of Graphs
+  - Directed Graph
+  - Undirected Graph
+  - Weighted Graph
+  - Unweighted Graph
+  - Connected Graph
+  - Disconnected Graph
+  - Cyclic Graph
+  - Acyclic Graph
+- Graph Representation
+  - Adjacency Matrix
+  - Adjacency List
+  - Edge List
+- Creating a Graph
+- Adding Vertices and Edges
+- Removing Vertices and Edges
+- Graph Traversal Algorithms
+  - Breadth First Search (BFS)
+  - Depth First Search (DFS)
+- Cycle Detection
+  - Cycle Detection in Undirected Graph
+  - Cycle Detection in Directed Graph
+- Connected Components
+- Path Finding in Graph
+- Topological Sorting
+  - Kahn's Algorithm
+  - DFS-Based Topological Sort
+- Shortest Path Algorithms
+  - Dijkstra's Algorithm
+  - Bellman-Ford Algorithm
+  - Floyd-Warshall Algorithm
+  - 0-1 BFS
+- Minimum Spanning Tree (MST)
+  - Prim's Algorithm
+  - Kruskal's Algorithm
+- Disjoint Set Union (DSU)
+  - Union Find
+  - Path Compression
+  - Union by Rank
+  - Union by Size
+- Bipartite Graph
+- Bridges in Graph
+- Articulation Points
+- Strongly Connected Components (SCC)
+  - Kosaraju's Algorithm
+  - Tarjan's Algorithm
+- Flood Fill Algorithm
+- Number of Islands
+- Clone Graph
+- Network Delay Time
+- Cheapest Flights Within K Stops
 
-- Vertices (Nodes)
-- Edges (Connections)
+💻 Technologies Used
 
-Graphs can be directed or undirected and weighted or unweighted.
+- Programming Language: Java
+- Concept: Data Structures and Algorithms (DSA)
+- Data Structure: Graph
+- Algorithms: BFS, DFS, Dijkstra, Bellman-Ford, Prim, Kruskal
 
-Features
+🎯 Objective
 
-- Create a Graph
-- Add vertices
-- Add edges
-- Directed Graph
-- Undirected Graph
-- Weighted Graph
-- Breadth First Search (BFS)
-- Depth First Search (DFS)
-- Detect Cycle in Graph
-- Find Connected Components
-- Shortest Path Algorithm
+The main objective of this folder is to understand Graph data structures, learn graph traversal techniques, implement important graph algorithms, and improve problem-solving skills using Java.
 
-Graph Representation
+▶️ How to Run
 
-    1 ----- 2
-    |       |
-    |       |
-    4 ----- 3
+1. Install Java JDK.
+2. Open the project in your preferred IDE.
+3. Compile the Java file:
 
-Technologies Used
+javac FileName.java
 
-- Java
-- Data Structures and Algorithms
+4. Run the program:
 
-Algorithms
+java FileName
 
-1. BFS (Breadth First Search)
-2. DFS (Depth First Search)
-3. Cycle Detection
-4. Dijkstra's Algorithm
+📈 Learning Goals
 
-Learning Objectives
+- Understand graph concepts and representations.
+- Master BFS and DFS traversal techniques.
+- Learn shortest path algorithms.
+- Understand Minimum Spanning Trees.
+- Solve graph-based problems using recursion and iteration.
+- Develop strong problem-solving and analytical skills.
+- Prepare for DSA coding interviews and competitive programming.
 
-- Understand Graph concepts.
-- Learn graph representation.
-- Practice BFS and DFS.
-- Understand graph traversal algorithms.
-- Improve problem-solving skills.
+🚀 Interview Preparation
+
+Practice Graph problems from platforms like:
+
+- LeetCode
+
+Keep Practicing, Keep Coding! 🚀
