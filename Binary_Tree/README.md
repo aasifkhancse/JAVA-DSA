@@ -48,6 +48,31 @@ This folder contains Java programs related to Binary Trees. It covers fundamenta
 
 The main objective of this folder is to understand Binary Tree data structures, learn different traversal techniques, and improve problem-solving skills using recursive and iterative approaches.
 
+📂 Folder Structure
+
+BinaryTree/
+│
+├── BinaryTree.java
+├── BuildTree.java
+├── PreorderTraversal.java
+├── InorderTraversal.java
+├── PostorderTraversal.java
+├── LevelOrderTraversal.java
+├── HeightOfTree.java
+├── CountNodes.java
+├── SumOfNodes.java
+├── SearchInTree.java
+├── DiameterOfTree.java
+├── IsIdentical.java
+├── IsSymmetric.java
+├── LowestCommonAncestor.java
+├── ZigzagTraversal.java
+├── TopView.java
+├── BottomView.java
+├── LeftView.java
+├── RightView.java
+├── BoundaryTraversal.java
+└── README.md
 
 ▶️ How to Run
 
