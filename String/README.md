@@ -26,7 +26,7 @@ This folder contains Data Structures and Algorithms (DSA) problems based on Stri
 20. Sliding Window Technique
 
 📂 Folder Structure
-
+```
 String/
 │
 ├── StringBasics.java
@@ -44,7 +44,7 @@ String/
 ├── LongestCommonPrefix.java
 ├── PatternMatching.java
 └── README.md
-
+```
 🎯 Learning Objectives
 
 - Understand String concepts in Java.
