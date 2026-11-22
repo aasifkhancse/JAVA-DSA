@@ -29,20 +29,11 @@ This folder contains Data Structures and Algorithms (DSA) problems based on Stri
 ```
 String/
 │
-├── StringBasics.java
-├── StringMethods.java
-├── StringComparison.java
-├── StringImmutability.java
-├── StringBuilderExample.java
-├── StringReverse.java
-├── PalindromeString.java
-├── AnagramString.java
-├── CharacterFrequency.java
-├── DuplicateCharacters.java
-├── Substring.java
-├── StringSorting.java
-├── LongestCommonPrefix.java
-├── PatternMatching.java
+├── BinaryString.java
+├── Palindrome.java
+├── ShortestPath.java
+├── StringCompression.java
+├── SubSetString.java
 └── README.md
 ```
 🎯 Learning Objectives
