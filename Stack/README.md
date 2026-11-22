@@ -22,7 +22,7 @@ This folder contains Data Structures and Algorithms (DSA) problems based on Stac
 - LIFO (Last In, First Out) Principle
 
 📂 Folder Structure
-
+```
 Stack/
 │
 ├── DuplicateParentheses.java
@@ -35,7 +35,7 @@ Stack/
 ├── StackWithArrayList.java
 ├── StackWithLinkedList.java
 └── ValidParentheses.java
-
+```
 🎯 Learning Objectives
 
 - Understand Stack data structure concepts.
