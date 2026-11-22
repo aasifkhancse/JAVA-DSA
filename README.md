@@ -61,7 +61,7 @@ The goal of this repository is to strengthen problem-solving skills, improve log
 - LeetCode Problems
 
 📂 Repository Structure
-
+```
 Java-DSA/
 │
 ├── Java-Basics/
@@ -84,7 +84,7 @@ Java-DSA/
 ├── Greedy/
 ├── DynamicProgramming/
 └── README.md
-
+```
 🎯 Goals
 
 - Master Data Structures and Algorithms using Java.
