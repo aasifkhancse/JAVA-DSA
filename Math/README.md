@@ -58,7 +58,7 @@ It helps improve logical thinking, problem-solving skills, and algorithm optimiz
 - Concepts: Mathematics, Number Theory, Algorithms
 
 📂 Folder Structure
-
+```
 Math/
 │
 ├── EvenOdd.java
@@ -86,7 +86,7 @@ Math/
 ├── ModularArithmetic.java
 ├── PythagoreanTriplet.java
 └── README.md
-
+```
 🎯 Learning Goals
 
 - Understand fundamental mathematical concepts used in programming.
@@ -97,7 +97,7 @@ Math/
 - Develop a strong foundation for competitive programming and coding interviews.
 
 ⏱️ Complexity
-
+```
 Operation / Algorithm| Time Complexity
 Even / Odd Check| O(1)
 Count Digits| O(log n)
@@ -110,7 +110,7 @@ Factorial| O(n)
 Fibonacci (Iterative)| O(n)
 Power (Fast Exponentiation)| O(log n)
 Sieve of Eratosthenes| O(n log log n)
-
+```
 🚀 Practice
 
 Practice mathematical problems regularly and focus on writing optimized Java solutions.
