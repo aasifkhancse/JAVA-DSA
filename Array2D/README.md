@@ -31,7 +31,7 @@ This folder contains Java programs related to Two-Dimensional (2D) Arrays. It co
 The main objective of this folder is to improve problem-solving skills and understand how two-dimensional arrays work in Java.
 
 📂 Folder Structure
-
+```
 2D-Arrays/
 │
 ├── Introduction.java
@@ -46,7 +46,7 @@ The main objective of this folder is to improve problem-solving skills and under
 ├── DiagonalSum.java
 ├── SpiralMatrix.java
 └── README.md
-
+```
 ▶️ How to Run
 
 1. Install Java JDK.
