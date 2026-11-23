@@ -23,7 +23,7 @@ This folder contains Object-Oriented Programming (OOP) concepts implemented in J
 - "super" Keyword
 
 📂 Folder Structure
-
+```
 Oops/
 │
 ├── Encapsulation.java
@@ -31,7 +31,7 @@ Oops/
 ├── Interface.java
 ├── Polymorphism.java
 └── README.md
-
+```
 🎯 Learning Objectives
 
 - Understand Object-Oriented Programming concepts.
