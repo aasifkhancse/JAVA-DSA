@@ -49,7 +49,7 @@ This folder contains Java programs related to Binary Trees. It covers fundamenta
 The main objective of this folder is to understand Binary Tree data structures, learn different traversal techniques, and improve problem-solving skills using recursive and iterative approaches.
 
 📂 Folder Structure
-
+```
 BinaryTree/
 │
 ├── BinaryTree.java
@@ -73,7 +73,7 @@ BinaryTree/
 ├── RightView.java
 ├── BoundaryTraversal.java
 └── README.md
-
+```
 ▶️ How to Run
 
 1. Install Java JDK.
@@ -100,8 +100,5 @@ java FileName
 Practice Binary Tree problems from platforms like:
 
 - LeetCode
-- GeeksforGeeks
-- HackerRank
-- Coding Ninjas
 
 Keep Practicing, Keep Coding! 🚀
