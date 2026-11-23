@@ -44,7 +44,7 @@ Each element can be accessed using its index.
 - Concepts: Data Structures and Algorithms
 
 📂 Folder Structure
-
+```
 Array/
 │
 ├── ArrayBasics.java
@@ -64,7 +64,7 @@ Array/
 ├── Subarrays.java
 ├── TwoDArray.java
 └── README.md
-
+```
 🎯 Learning Goals
 
 - Understand array operations.
