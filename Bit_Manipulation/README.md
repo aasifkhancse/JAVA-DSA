@@ -1,54 +1,85 @@
-Bit Manipulation
+Bit Manipulation – DSA with Java
 
-This folder contains Bit Manipulation concepts and problems implemented in Java. It covers bitwise operators, bit operations, and commonly asked coding interview problems.
+This folder contains Data Structures and Algorithms (DSA) concepts and problems based on Bit Manipulation, implemented using Java.
+
+It covers bitwise operators, binary number operations, bit-level techniques, and commonly asked coding interview problems.
 
 📚 Topics Covered
 
-1. Introduction to Bit Manipulation
-2. Binary Number System
-3. Bitwise AND ("&")
-4. Bitwise OR ("|")
-5. Bitwise XOR ("^")
-6. Bitwise NOT ("~")
-7. Left Shift ("<<")
-8. Right Shift (">>")
-9. Unsigned Right Shift (">>>")
-10. Get ith Bit
-11. Set ith Bit
-12. Clear ith Bit
-13. Update ith Bit
-14. Check if a Number is Even or Odd
-15. Check if a Number is a Power of 2
-16. Count Set Bits
-17. Remove the Last Set Bit
-18. Find the Unique Number
-19. Swap Two Numbers Using XOR
+- Introduction to Bit Manipulation
+- Binary Number System
+- Bitwise AND ("&")
+- Bitwise OR ("|")
+- Bitwise XOR ("^")
+- Bitwise NOT ("~")
+- Left Shift ("<<")
+- Right Shift (">>")
+- Unsigned Right Shift (">>>")
+- Get ith Bit
+- Set ith Bit
+- Clear ith Bit
+- Update ith Bit
+- Check Even or Odd Using Bit Manipulation
+- Check Whether a Number Is a Power of 2
+- Count Set Bits
+- Remove the Last Set Bit
+- Fast Exponentiation
+- Find the Unique Number
+- Swap Two Numbers Using XOR
 
+📂 Folder Structure
+```
+Bit_Manipulation/
+│
+├── CountBit.java
+├── EvenAndOdd.java
+├── FastExponentiation.java
+├── PowerOfTwo.java
+└── README.md
+```
 💡 Important Properties
 
-- "n & 1" – Checks whether a number is odd or even.
-- "n & (n - 1)" – Removes the rightmost set bit.
-- "n & (n - 1) == 0" – Checks whether a positive number is a power of 2.
-- "n | (1 << i)" – Sets the ith bit.
-- "n & ~(1 << i)" – Clears the ith bit.
-- "n ^ (1 << i)" – Toggles the ith bit.
+Operation| Expression
+Check odd or even| "n & 1"
+Remove rightmost set bit| "n & (n - 1)"
+Check power of 2| "n > 0 && (n & (n - 1)) == 0"
+Set ith bit| "n | (1 << i)"
+Clear ith bit| "n & ~(1 << i)"
+Toggle ith bit| "n ^ (1 << i)"
+Get ith bit| "(n >> i) & 1"
 
 🎯 Learning Objectives
 
 - Understand how numbers are represented in binary.
 - Learn bitwise operators and their applications.
-- Perform bit-level operations efficiently.
+- Understand how to perform bit-level operations.
+- Learn efficient techniques for manipulating individual bits.
 - Solve DSA problems using Bit Manipulation.
-- Improve problem-solving and coding skills.
+- Understand time and space complexity.
+- Improve problem-solving and logical thinking.
+- Practice important Bit Manipulation coding interview questions.
+- Develop efficient Java solutions.
 
-🛠️ Language Used
+💻 Programming Language
 
 - Java
 
-📌 Purpose
+🚀 How to Run
 
-This folder is part of my Data Structures and Algorithms (DSA) preparation. It contains solutions and implementations to strengthen my understanding of Bit Manipulation and prepare for technical coding interviews.
+1. Install JDK on your system.
+2. Open the terminal in the Bit_Manipulation folder.
+3. Compile the Java file:
 
----
+javac CountBit.java
+
+4. Run the program:
+
+java CountBit
+
+Note: Replace "CountBit" with the class name of the Java file you want to execute.
+
+📈 Goal
+
+To master Bit Manipulation concepts from beginner to advanced level, understand efficient bitwise techniques, strengthen problem-solving skills, and prepare for technical coding interviews.
 
 Keep Learning | Keep Practicing | Keep Coding 🚀
